@@ -1,3 +1,5 @@
 image:
   repository: almogbcr/simpleflaskapp
   tag: "16c7404"
+
+replicaCount: 1
